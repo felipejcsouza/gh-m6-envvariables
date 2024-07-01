@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.epzsox5.mongodb.net
       MONGODB_USERNAME: felipejcs
-      MONGODB_PASSWORD: pyzI48W2G5QJGyl2
+      MONGODB_PASSWORD: K6NPT35:Mzv2Ap_
       PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
